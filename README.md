@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @BetaCoder335
-- 👀 I’m interested in Html and programming in general
-- 🌱 I’m currently Persuing Bachelors Degree From Symbiosis Institute of Computer Studies and Research
-- 📫 How to reach me ...
--         You Can DM me on Instagram @yash_dollardam
--         or you can drop a mail on mosieuryash@gmail.com
+This is a Semester End Project given to us at college as  a 1st year BCA Student .
 
-<!---
-BetaCoder335/BetaCoder335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+this project helped me learn the concept of HTML5 , CSS3 and JavaScript 
+
+This is a e-commerce website that allows you add the items in cart and get the total amount of the items 
+Hope you all like this project 
